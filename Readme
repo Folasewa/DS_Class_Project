@@ -22,17 +22,17 @@ python3 -m venv venv_name
 **Step 2:** Activate your virtual environment
 source venv_name/bin/activate
 
-To know your virtual environment has been activated, the name of your virtual environment comes up as prefix in ypur terminal
+To know your virtual environment has been activated, the name of your virtual environment comes up as a prefix in your terminal
 After activating the virtual environment, you can now install these packages
 
 **Step 3:** To install these packages, run the following command:
 pip install -r requirements.txt
 
 ## Datasets
-Datasets used in these notebook are the iris dataset and laptop price dataset which are included in the folder "**Dataset**"
+Datasets used in this notebook are the iris dataset and laptop price dataset which are included in the folder "**Dataset**"
 
 ## Detailed Documentation and Analysis
-The documentation and detailed explanation of the analysis is found in the pdf titled "Mini Project-Folasewa-B02294068.pdf"
+The documentation and detailed explanation of the analysis are found in the pdf titled "Mini Project-Folasewa-B02294068.pdf"
 
 ## Ipynb Notebook
 The jupyter notebook is titled **"Mini_Project_Folasewa_DS.ipynb"**
