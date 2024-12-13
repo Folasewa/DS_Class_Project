@@ -1,5 +1,15 @@
 # Mini Project - Advanced Data Science Course at BIU
 
+## Description
+This project includes two main tasks:
+1. Covariance and Correlation Analysis with the Iris Dataset.
+2. Laptop Price Analysis using Pandas, NumPy, and Visualization Libraries.
+
+## Features
+- Implement covariance and correlation calculations from scratch.
+- Validate results with NumPy and visualize them.
+- Analyze and visualize laptop pricing trends by brand, RAM, CPU, and storage.
+
 ## **Install Dependencies**
 These are the required packages needed for the project to run.
 **Note, create a virtual environment** first to install all the requirements
